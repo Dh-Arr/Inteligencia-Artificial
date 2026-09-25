@@ -5,7 +5,7 @@ Desarrollo de un modelo predictivo de Machine Learning orientado a estimar los c
 ## Integrantes - Grupo 07 
 
 * **Javiera Cuevas** – [javiera.cuevas2201@alumnos.ubiobio.cl](mailto:javiera.cuevas2201@alumnos.ubiobio.cl)
-* **Antonia Peña** – [antonia.pena2202@alumnos.ubiobio.cl](mailto:antonia.pena2202@alumnos.ubiobio.cl)[cite: 1]
+* **Antonia Peña** – [antonia.pena2202@alumnos.ubiobio.cl](mailto:antonia.pena2202@alumnos.ubiobio.cl)
 * **Arline Mitchell** – [arline.mitchell2201@alumnos.ubiobio.cl](mailto:arline.mitchell2201@alumnos.ubiobio.cl)
 * **Nicolás Morales** – [nicolas.morales2001@alumnos.ubiobio.cl](mailto:nicolas.morales2001@alumnos.ubiobio.cl)
 
